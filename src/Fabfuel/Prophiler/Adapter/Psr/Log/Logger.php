@@ -8,7 +8,7 @@ namespace Fabfuel\Prophiler\Adapter\Psr\Log;
 use Fabfuel\Prophiler\Adapter\AdapterAbstract;
 use Psr\Log\LoggerInterface;
 
-class Logger extends AdapterAbstract implements LoggerInterface
+class Logger extends AdapterAbstract //implements LoggerInterface
 {
     /**
      * System is unusable.
