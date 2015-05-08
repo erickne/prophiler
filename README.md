@@ -1,4 +1,4 @@
-#Prophiler - A PHP Profiler & Developer Toolbar built for Phalcon
+#Prophiler - A PHP Profiler & Developer Toolbar built for Phalcon - Edit by Erick
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/fabfuel/prophiler/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/fabfuel/prophiler/?branch=develop)
 [![Code Coverage](https://scrutinizer-ci.com/g/fabfuel/prophiler/badges/coverage.png?b=develop)](https://scrutinizer-ci.com/g/fabfuel/prophiler/?branch=develop)
